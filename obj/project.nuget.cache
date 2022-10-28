@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "na+wx3oML/eybHQ2yLsifw8Tlw41hiJWItQCcOnkcjk4Cuw4vqX+Y6VVoz63wek3pAKil/FMfXJ+XR6nj9IPUQ==",
+  "dgSpecHash": "taU66Y11ImhK6BwsBBlt2SwRtezEO/BTc1gWeDgb0Rx1M4p0qVvx7zoQTJEzL03AX407RCw7YqFt2lelgz1Cpw==",
   "success": true,
-  "projectFilePath": "/Users/johnstennett/Coding/C#/JohnsAPI/JohnsAPI.csproj",
+  "projectFilePath": "/Users/johnstennett/Coding/C#/BusinessAPI/BusinessAPI.csproj",
   "expectedPackageFiles": [
     "/Users/johnstennett/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/johnstennett/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",

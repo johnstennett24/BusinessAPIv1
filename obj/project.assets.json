@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/johnstennett/Coding/C#/JohnsAPI/JohnsAPI.csproj",
-      "projectName": "JohnsAPI",
-      "projectPath": "/Users/johnstennett/Coding/C#/JohnsAPI/JohnsAPI.csproj",
+      "projectUniqueName": "/Users/johnstennett/Coding/C#/BusinessAPI/BusinessAPI.csproj",
+      "projectName": "BusinessAPI",
+      "projectPath": "/Users/johnstennett/Coding/C#/BusinessAPI/BusinessAPI.csproj",
       "packagesPath": "/Users/johnstennett/.nuget/packages/",
-      "outputPath": "/Users/johnstennett/Coding/C#/JohnsAPI/obj/",
+      "outputPath": "/Users/johnstennett/Coding/C#/BusinessAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/johnstennett/.nuget/NuGet/NuGet.Config"
