@@ -37,3 +37,4 @@ developer, C# is very similar and you can pick it up very easily.
     3. Make sure you have a mySQL server running on your local machine.
     4. open a new terminal and type 'dotnet build' 
     5. Once you recieve a 'build succesecul' notification, type 'dotnet run'
+    6. The program will open your default browser with a Swagger page
