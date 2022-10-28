@@ -26,7 +26,7 @@ developer, C# is very similar and you can pick it up very easily.
 
 * [C# and MySQL guide](https://dev.mysql.com/doc/connector-net/en/)
 * [C# and .NET docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
-* [C# and ASP.NET webAPI tutorial] (https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/1-introduction)
+* [C# and ASP.NET webAPI tutorial](https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/1-introduction)
 
 # Run the Program
 
