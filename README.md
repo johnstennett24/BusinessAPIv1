@@ -13,8 +13,6 @@ This C# progam is written to create a list of type Business. The Business class 
 
 My purpose for creating this software is to begin to learn how to create and work with API's. I am beginning to work on a project that tracks revenue and sales for a business and then measures those against goals that have been previously set by the owner or manager of the business.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/o1BYcJ4nqwA)
 
 # Development Environment
