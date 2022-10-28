@@ -29,7 +29,7 @@ developer, C# is very similar and you can pick it up very easily.
 
 # Run the Program
 
-  * To run the progam you will need to have C# and .NET installed on your local machine.
+  * To run the progam you will need to have C# and .NET 6.0 installed on your local machine.
   
   ## Instructions
     1. Install C# and .NET 6.0
